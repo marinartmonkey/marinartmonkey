@@ -1,0 +1,4 @@
+* Este es un archivo de ejemplo.
+*
+* Estas tres primeras líneas estaban escritas inicialmente.
+
